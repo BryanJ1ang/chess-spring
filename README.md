@@ -1,4 +1,4 @@
-![Chess Demo Gf](https://github.com/BryanJ1ang/chess-spring/assets/134325602/534ce8a2-e57d-4dac-ad3f-9b4089997342)## Full Stack Java Chess App
+## Full Stack Java Chess App
 
 Try out the game [here!](https://chess-c486876bf51a.herokuapp.com/) See if you can beat my Chess engine.
 
