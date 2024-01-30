@@ -14,7 +14,7 @@ I grew up playing Chess with my dad and for as long as I can remember, I've almo
 - Singleplayer mode against AI opponent
   - Supports as many concurrent games as the server can handle (haven't stress tested it)
 - Real-time online multiplayer (play againt your friend)
-  - Note: multiplayer currently only supports 1 game at a time. Any client that selects multiplayer will be connected to the same game. (Game is refreshed when a single client disconnects)
+  - Note: multiplayer currently only supports 1 single game at a time. Any client that selects multiplayer will be connected to the same game. (Game is refreshed when a single client disconnects)
 - Server-side game logic and validation
 
 ## Technologies
