@@ -12,10 +12,10 @@ I grew up playing Chess with my dad and for as long as I can remember, I've almo
 
 ## Features
 - AI Chess Engine for singleplayer mode
-- - Supports as many concurrent games as the server can handle (haven't stress tested it)
+  - Supports as many concurrent games as the server can handle (haven't stress tested it)
 - Server-side game logic and validation
 - Real-time online multiplayer (play againt your friend)
-- - Note: multiplayer currently only supports 1 game at a time. Any client that selects multiplayer will be connected to the same game. (Game is refreshed when a single client disconnects)
+  - Note: multiplayer currently only supports 1 game at a time. Any client that selects multiplayer will be connected to the same game. (Game is refreshed when a single client disconnects)
 
 ## Technologies
 - Java
