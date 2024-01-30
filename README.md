@@ -3,7 +3,7 @@
 Try out the game [here!](https://chess-c486876bf51a.herokuapp.com/) See if you can beat my Chess engine.
 
 ## About the project
-This is a Chess webapp, with support for both singleplayer mode against an computer opponent and real-time online multiplayer. 
+This is a Chess webapp, featuring singleplayer against an computer opponent and real-time online multiplayer against another person.
 
 Chess is a game featuring two players, both starting off with 16 pieces on opposite sides of the board. The objective of the game is to checkmate your opponent's king, that is, when one of your pieces threatens to capture your opponent's King on your next term AND, the opponent has no legal moves. You can find a more detailed explanation on the rules [here](https://www.chess.com/learn-how-to-play-chess). 
 
