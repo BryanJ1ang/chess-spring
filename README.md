@@ -11,11 +11,11 @@ Chess is a game featuring two players, both starting off with 16 pieces on oppos
 I grew up playing Chess with my dad and for as long as I can remember, I've almost always lost. Sadly, I still lose more than I win, playing against him even today, but hopefully, my Chess engine can beat him. 
 
 ## Features
-- AI Chess Engine for singleplayer mode
+- Singleplayer mode against AI opponent
   - Supports as many concurrent games as the server can handle (haven't stress tested it)
-- Server-side game logic and validation
 - Real-time online multiplayer (play againt your friend)
   - Note: multiplayer currently only supports 1 game at a time. Any client that selects multiplayer will be connected to the same game. (Game is refreshed when a single client disconnects)
+- Server-side game logic and validation
 
 ## Technologies
 - Java
