@@ -12,6 +12,13 @@ Chess is a game with two players, each starting off with 16 pieces on opposite s
 ## Why I chose this project 
 I grew up playing Chess with my dad and for as long as I can remember, I've almost always lost. Sadly, I still lose more than I win, playing against him even today, but hopefully, my Chess engine can beat him. 
 
+## Technologies
+- Java
+- Spring Boot
+- Websocket
+- React
+- JavaScript
+
 ## Features
 - Singleplayer mode against AI opponent
   - Supports numerous concurrent games, subject to the server's capacity (stress testing not yet conducted).
@@ -28,13 +35,6 @@ currently is that I need to implement the process for creating and joining diffe
 - Incorporating an opening book for users to practice different strategies
   (basically a list of different moves in the initial stages of a Chess game that have been deeply studied)
 - User accounts, match history, and skill rating
-
-## Technologies
-- Java
-- Spring Boot
-- Websocket
-- React
-- JavaScript
 
 ## Technical Notes
 
