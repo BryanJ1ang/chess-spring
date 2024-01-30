@@ -26,9 +26,9 @@ I grew up playing Chess with my dad and for as long as I can remember, I've almo
 
 ## Technical Notes
 
-### Strategy Design Pattern
+### Architecture: Strategy Design Pattern
 The main part of the game logic was constructed using the Strategy Design Pattern, allowing for each piece to have their 
-own unique way of moving around the board and collecting their list of all legal moves. Before discovering this was a thing, 
+own unique way of moving around the board and collecting their list of all legal moves. Before discovering this concept, 
 I had simply included different functions for my pieces within a single file and needless to say, it was tremendous work navigating 
 through hunderds of lines of code. Refactoring it, following this design pattern, made my code much more cleaner and way easier to work 
 with when I later decided to implement my AI chess engine.
