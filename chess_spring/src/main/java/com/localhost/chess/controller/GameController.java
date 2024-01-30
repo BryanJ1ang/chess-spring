@@ -66,7 +66,7 @@ public class GameController {
     public void endGame(MoveResource move) {
         String gameId = move.getGameId();
         if (service.getMultiplayerGames().containsValue(gameId)) {
-            service.getMultiplayerGames().remove(gameId);
+            service.getMultiplayerGames().values().remove(gameId);
         }
         System.out.println("Ending game: " + gameId);
         service.getGames().remove(gameId);
