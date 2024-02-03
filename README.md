@@ -49,7 +49,7 @@ with when I later decided to implement my AI chess engine.
 On that note, creating the computer opponent was definitely one of the most rewarding aspects of the project. The engine was went through several different iterations
 and was evaluated on its ability to solve several ['chess puzzles'](https://lichess.org/study/WiuSw3ga/c9rkZk4L). Initially, it was just a basic minimax algorithm that often times
 took several minutes to return. Optimizing it with alpha-beta pruning, as well as cleaning up the other algorithms that the minimax algorithm depended on, increased the efficiency tremendously. 
-Tests that once took 3 or 4 minutes to finish now within 30 seconds. 
+Tests that once took 3 or 4 minutes to finish only need around 30 seconds. 
 
 
 ## Citations
