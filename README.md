@@ -1,6 +1,6 @@
 ## Full Stack Java Chess App
 
-Try out the game [here!](https://chess-c486876bf51a.herokuapp.com/) See if you can beat my Chess engine.
+Try out the game [here!](https://chess-c486876bf51a.herokuapp.com/) 
 
 ## About the project
 This is a webapp Chess platform, ported from my previous desktop [Chess application](https://github.com/BryanJ1ang/Java-Chess). It features a single-player mode against a self-developed computer opponent and real-time online multiplayer gameplay against other users.
