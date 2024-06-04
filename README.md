@@ -52,7 +52,6 @@ Tests that once took 3 or 4 minutes to finish only need around 30 seconds.
 ## Citations
 Chess piece images used in this project were retrieved from [Wikimedia](https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent) and are licensed under [Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en).
 
-Credit goes to Daniel Fern for his Java Tuples library ([JavaTuples](https://www.javatuples.org/index.html)).
 
 
 
