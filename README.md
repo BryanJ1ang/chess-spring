@@ -1,4 +1,4 @@
-## Full Stack Java Chess App
+## Chess App
 
 Try out the game [here!](https://chess-c486876bf51a.herokuapp.com/) 
 
