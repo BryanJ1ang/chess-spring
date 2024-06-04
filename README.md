@@ -20,17 +20,14 @@ I grew up playing Chess with my dad and for as long as I can remember, I've almo
 - JavaScript
 
 ## Features
-- Singleplayer mode against AI opponent
-  - Supports numerous concurrent games, subject to the server's capacity (stress testing not yet conducted).
+- Singleplayer mode against an AI opponent
+  - Supports multiple concurrent games
 - Real-time online multiplayer (play against your friend)
-  - Note: multiplayer currently only supports 1 single game at a time. Any client that selects multiplayer will be connected to the same game. (Game is refreshed when a single client disconnects)
 - Server-side game logic and validation
 
 ## Near Future Plans
-There's a lot of possibilities for expanding on this project. The top priority is to finish the multiplayer capabilities of the project. The only reason why my multiplayer only supports 1 game at time
-currently is that I need to implement the process for creating and joining different games. Aside from that, there are several possibilities for future improvement.
+There's a lot of possibilities for expanding on this project. There are several possibilities for future improvement.
 
-- Implement the process for creating and joining different multiplayer games
 - Strengthening the Chess engine
 - Incorporating an opening book for users to practice different strategies
   (basically a list of different moves in the initial stages of a Chess game that have been deeply studied)
