@@ -26,14 +26,12 @@ I grew up playing Chess with my dad and for as long as I can remember, I've almo
 - Server-side game logic and validation
 
 ## Near Future Plans
-There's a lot of possibilities for expanding on this project. There are several possibilities for future improvement.
+There's a lot of possibilities for expanding on this project. Here are a few I have in mind:
 
-- Strengthening the Chess engine
+- Strengthening the Chess engine and adding multiple difficulties
 - Incorporating an opening book for users to practice different strategies
-  (basically a list of different moves in the initial stages of a Chess game that have been deeply studied)
+  (essentially a list of different moves in the initial stages of a Chess game that are considered optimal)
 - User accounts, match history, and skill rating
-
-## Technical Notes
 
 ### Architecture: Strategy Design Pattern
 The main part of the game logic was constructed using the Strategy Design Pattern, allowing for each piece to have their 
